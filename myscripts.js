@@ -1,3 +1,8 @@
-**// Return only numbers in the years array greater than 1950.
 
+
+let score = 80;
+
+if(score >= 90) {
+    console.log("You get a an A")
+}
 
